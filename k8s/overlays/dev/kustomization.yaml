@@ -16,4 +16,4 @@ patches:
   - path: quota-patch.yaml
 images:
   - name: kuberpull/jest-api
-    newTag: dev
+    newTag: da9e71e3781b9660db7c400a226b9d93c00c9de8
